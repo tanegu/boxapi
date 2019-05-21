@@ -160,5 +160,7 @@ file_info_30 = client.file(file_id_30).get()
 
 print(file_info_30,end="")
 
+print('test')
+
 
 #box_file = client.folder(folder_id).upload(file_path, file_name)
